@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background:linear-gradient(#D9D7F1 0%,#FFCBCB 100%);
+}
+.imageproflie {
+    height: 200px;
+    width:200px;
+    border-radius: 50%;
+}
+.menu {
+    list-style: none ;
+    font-family: Licorice;
+    font-size: 30;
+    cursor: pointer;
+    position: fixed;
+    z-index: 10;
+    top: 10px;
+}
+.links:hover {
+    background-color: aquamarine;
+}
+.links {
+    float: left;
+padding-left: 9px;
+padding-right: 9px;
+}
+p {
+    font-size: 30
+    ;
+}
+
